@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "ia-industria-201",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true
+    }
+  }
+}
