@@ -14,7 +14,7 @@ LLM = "http://llm:8088"        # el contenedor llm, por su nombre en la red de D
 # --- Decisiones tuyas (las cambiarás en los pasos finales) -------------------
 # PREGUNTA = "Explica en una frase qué es el mantenimiento preventivo."
 # PREGUNTA = "¿A qué par se aprieta el tornillo de la brida de EST-01? Si no lo sabes, di: no lo sé."
-PREGUNTA = "Realiza la siguiente operación 4x5x(3+2)"
+PREGUNTA = "Realiza la siguiente operación 4*5*(3+2^5). Debes tener en cuenta el orden y prioridad de las operaciones"
 LONGITUDES = (20, 80, 200)     # máximos de tokens que se prueban en el paso 4
 
 # --- PASO 1: ¿está vivo el servicio? (ya está hecho) -------------------------
